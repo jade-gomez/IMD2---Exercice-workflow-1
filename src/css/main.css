@@ -12,3 +12,7 @@ img,
 video {
   display: block;
 }
+
+img {
+  max-width: 120px;
+}
